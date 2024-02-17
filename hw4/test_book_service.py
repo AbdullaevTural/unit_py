@@ -3,8 +3,8 @@ from unittest.mock import Mock
 from book_service import BookService
 
 mock_data = {
-    'ID': '15',
-    'name': 'The Goldfinch'
+    'ID': '12',
+    'name': 'test4'
 }
 
 mock_fetch_books = Mock([mock_data])
